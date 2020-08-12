@@ -6,33 +6,34 @@
 This is me 
 ```
 ---
-  personal:
-    name: 'Rodrigo'
-    surname: 'Yoshio Kondo'
-    age: '25'
-    mail: 'rodi.kondo@gmail.com'
-    city: 'Curitiba, Brasil'
-  professional:
-    employed: true
-    title: 'DevOps analyst'
-    employer: 'MadeiraMadeira'
-  bio:
-    insterests:
-      - 'linux'
-      - 'cloud computing'
-      - 'AWS'
-      - 'containerization'
-      - 'scripting'
-      - 'automation'
-    hobbies:
-      - 'gaming'
-      - 'airsoft'
-    studying:
-      - 'docker'
-      - 'AWS'
-      - 'linux'
-      - 'ECS/Kubernetes'
-      - 'python'
+personal:
+  name: 'Rodrigo'
+  surname: 'Yoshio Kondo'
+  age: '25'
+  mail: 'rodi.kondo@gmail.com'
+  city: 'Curitiba, Brasil'
+professional:
+  employed: true
+  title: 'DevOps analyst'
+  employer: 'MadeiraMadeira'
+bio:
+  insterests:
+    - 'linux'
+    - 'cloud computing'
+    - 'AWS'
+    - 'containerization'
+    - 'scripting'
+    - 'automation'
+  hobbies:
+    - 'gaming'
+    - 'airsoft'
+  studying:
+    - 'docker'
+    - 'AWS'
+    - 'linux'
+    - 'ECS/Kubernetes'
+    - 'python'
+
 ```
 You can reach out to me with any of this links  
 <p align="center">
