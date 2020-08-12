@@ -5,7 +5,7 @@
 
 This is me 
 ```
-{
+---
   personal:
     name: 'Rodrigo'
     surname: 'Yoshio Kondo'
@@ -25,7 +25,7 @@ This is me
       - 'scripting'
       - 'automation'
     hobbies:
-      - 'gamming'
+      - 'gaming'
       - 'airsoft'
     studying:
       - 'docker'
@@ -33,7 +33,6 @@ This is me
       - 'linux'
       - 'ECS/Kubernetes'
       - 'python'
-}
 ```
 You can reach out to me with any of this links  
 <p align="center">
