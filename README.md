@@ -14,8 +14,8 @@ personal:
   city: 'Curitiba, Brasil'
 professional:
   employed: true
-  title: 'DevOps analyst'
-  employer: 'MadeiraMadeira'
+  title: 'Infrastructure analyst DevOps'
+  employer: 'Repassa'
 bio:
   insterests:
     - 'linux'
@@ -33,6 +33,7 @@ bio:
     - 'linux'
     - 'ECS/Kubernetes'
     - 'python'
+    - 'Azure'
 
 ```
 You can reach out to me with any of this links  
