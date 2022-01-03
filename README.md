@@ -9,13 +9,13 @@ This is me
 personal:
   name: 'Rodrigo'
   surname: 'Yoshio Kondo'
-  age: '25'
+  age: '26'
   mail: 'rodi.kondo@gmail.com'
   city: 'Curitiba, Brasil'
 professional:
   employed: true
-  title: 'Infrastructure analyst DevOps'
-  employer: 'Repassa'
+  title: 'Principal software specialist'
+  employer: 'E-core'
 bio:
   insterests:
     - 'linux'
